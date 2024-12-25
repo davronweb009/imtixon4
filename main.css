@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+header{
+    background-color:wheat ;
+    height: 100px;
+}
+.fifa1{
+    display: flex;
+    justify-content: center;
+}
+.davron{
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    gap: 50px;
+    padding: 20px;
+    color: white;
+    
+}
+.davron a{
+    color: black;
+}
+.davron1{
+    transition: 1s;
+    
+}
+.box1{
+    display: flex;
+    justify-content: end;
+    margin-top: -290px;
+}
+.sections{
+    margin-top: 100px;
+    font-weight: bolder;
+    margin-left: 120px;
+    
+    
+    
+}
+.icons1{
+    display: flex;
+    gap: 30px;
+    margin-left: 100px;
+}
+.icons1 input{
+
+padding: 5px;
+border-radius: 205px;
+}
+.icons2{
+    display: flex;
+    height: 30px;
+    width: 10px;
+    color: black;
+}
+.davron88{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    background-color: rgb(219, 219, 219);
+    flex-wrap: wrap;
+
+}
+.minibox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 50px;
+}
+.davron89{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    background-color: rgb(219, 219, 219);
+}
+.minibox1{
+    display: flex;
+    margin-top: 40px;
+    padding: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    background-color:  white;
+    border: none;
+    border-radius: 20px;
+}
+.davron90{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    background-color: rgb(219, 219, 219);
+}
+.minibox2{
+    display: flex;
+    margin-top: 40px;
+    padding: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+}
+.davron91{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.minibox3 img {
+width: 400px;
+
+}
+.container button{
+    padding: 10px;
+}
+.container button:hover{
+    color: white;
+    background-color: black;
+}
+.mini1{
+    display: flex;
+    margin-top: 40px;
+    padding: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    background-color: white;
+    border: none;
+    border-radius: 35px;
+    margin-bottom: 60px;
+}
+.davron input{
+    padding: 5px;
+}
+.minibox button{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+.minibox1 button{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+.minibox2 button {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.mini1 button{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    
+}
+.minibox1 button:hover{
+    background-color: white;
+    color: black;
+}
+.minibox button:hover{
+    background-color: white;
+    color: black;
+}
+.minibox2 button:hover{
+
+    background-color: white;
+    color: black;
+}
+.mini1 button:hover{
+    background-color: white;
+    color: black;
+}
+
+footer{
+    display: flex;
+    background-color: white;
+    height: 300px;
+    gap: 90px;
+}
+.no11{
+    
+   margin-left: 100px;
+   margin-top: 120px;
+   font-size: 19px;
+   
+}
+.no12{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.bon{
+    margin-top: 110px;
+    margin-left: 100px;
+    line-height: 30px;
+    font-size: 20px;
+    
+}
+.bon1{
+margin-top: 100px;
+margin-left: 250px;
+line-height: 30px;
+
+
+}
+.bon2{
+    margin-top: 100px;
+    line-height: 30px;
+    margin-left: 140px;
+    font-size: 20px;
+}
+.bon2 input{
+    padding: 10px;
+    border-radius: 10px;
+}
+.bon5{margin-top: 60px;
+line-height: 30px;
+font-size: 20px;
+}

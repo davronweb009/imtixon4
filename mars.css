@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+header{
+    background-color:wheat ;
+    height: 70px;
+}
+.fifa1{
+    display: flex;
+    justify-content: center;
+}
+.davron{
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    gap: 50px;
+    padding: 20px;
+    color: white;
+    
+}
+.davron a{
+    color: black;
+}
+.davron1{
+    transition: 1s;
+}
+
+
+
+.icons1{
+    display: flex;
+    gap: 30px;
+    margin-left: 100px;
+    
+}
+.icons1 input{
+    
+    border-radius: 205px;
+    padding: 5px;
+
+}
+.icons2{
+    display: flex;
+    height: 30px;
+    width: 10px;
+    color: black;
+}
+.bio1{
+
+  text-align: center;
+
+  
+    
+}
+.bio3{
+    text-align: center;
+    margin-left: 650px;
+    align-items: start;
+    
+    
+
+   
+    
+}
+.bio3 input{
+  padding: 13px;
+  width: 350px;
+}
+.bio5i{
+    
+    padding: 30px;
+}
+.biop{
+    margin-top: -230px;
+    height: 200px;
+}
+
+hr{
+    margin-top: 300px;
+}
+footer{
+    display: flex;
+    background-color: wheat;
+    height: 300px;
+    gap: 90px;
+    
+    
+}
+.no11{
+    
+   margin-left: 100px;
+   margin-top: 120px;
+   font-size: 19px;
+   
+}
+.no12{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.bon{
+    margin-top: 110px;
+    margin-left: 100px;
+    line-height: 30px;
+    font-size: 20px;
+    
+}
+.bon1{
+margin-top: 100px;
+margin-left: 250px;
+line-height: 30px;
+
+
+}
+.bon2{
+    margin-top: 100px;
+    line-height: 30px;
+    margin-left: 140px;
+    font-size: 20px;
+}
+.bon2 input{
+    padding: 10px;
+    border-radius: 10px;
+}
+.bon5{margin-top: 60px;
+line-height: 30px;
+font-size: 20px;
+}
+main{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+footer{
+    margin-top: 200px;
+}
+.davron11{
+    margin-top: -400px;
+}
+.davron12{
+    margin-top: -400px;
+} 
+.biop6{
+    
+    margin-left: 950px;
+    margin-top: 80px;
+    padding: 10px;
+    width: 80px;
+    color: white;
+    background-color: black;
+}
+.davron13{
+    margin-top: -150px;
+}
+.davron77{
+    display: flex;
+    margin-left: -50px;
+}
